@@ -1,6 +1,7 @@
-# 404 - Page Not found
+# 404 - Page Not found 🐼
 
 Example page Not Found - error 404
+
 
 ## Desenvolvedores
 
